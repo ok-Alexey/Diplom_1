@@ -24,3 +24,4 @@
 
 >  `$ pytest --cov=praktikum --cov-report=html` 
 
+# Diplom_1
